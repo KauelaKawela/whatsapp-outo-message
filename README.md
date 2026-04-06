@@ -49,8 +49,8 @@ Bu proje, **Selenium** ve **Flask** kullanarak WhatsApp Web üzerinden otomatik 
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone https://github.com/KauelaKawela/whatsapp-outo-message.git
-    cd whatsapp-outo-message
+    git clone https://github.com/KauelaKawela/whatsapp-auto-message.git
+    cd whatsapp-auto-message
     ```
 
 2.  **Sanal Ortam (Virtual Environment) Oluşturun ve Aktif Edin (Önerilen):**
